@@ -27,7 +27,7 @@
 
 ### 🏅 Awards & Activities
 
-- 🇯🇵 Finalist in an international app development contest (Top 11 out of 88 teams)[@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
+-Finalist in an international app development contest (Top 11 out of 88 teams)[@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
 - 🏫 Radiation visualization system: Winner of the Principal's Award[@AI Future Exploration Project](https://www.ibaraki-ct.ac.jp/info/archives/75609) / Presented at academic conferences  
 - 🗣️ English Debate Club: Qualified for the world championships 2 years in a row, earned 4 medals [@World Scolars Cup](https://www.scholarscup.org/)
 - 🧪 Participated twice in the KEK Science Camp[@KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc)[@TYL School Science Girls Camp 2025](https://www.kek.jp/ja/topics/202505021200rikejo)
