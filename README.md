@@ -29,7 +29,7 @@
 - Technovation Girls2025[@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
 チャレンジステージ1位＆ファイナリスト (11/88チーム)
 - 高専GCON2025[@GCON]( https://gcon.kosen-k.go.jp/)
-一次審査通過
+一次審査通過（22/89チーム）
 - 🗣️ World Scolars Cup[@WSC](https://www.scholarscup.org/)
 で2年連続世界大会出場権獲得＆4個のメダルを獲得 
 - 🏫 AI未来探究プロジェクト [@AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609) 
