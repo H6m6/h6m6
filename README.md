@@ -24,16 +24,16 @@
 
 ### 🏅 受賞歴、活動実績
 
-- 2025年 日本表面真空学会学術講演会[@JVSS 2025]( https://pub.confit.atlas.jp/en/event/jvss2025)
+- [@2025年 日本表面真空学会学術講演会]( https://pub.confit.atlas.jp/en/event/jvss2025)
 ポスター発表参加
-- Technovation Girls2025[@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
+- [@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
 チャレンジステージ1位＆ファイナリスト (11/88チーム)
-- 高専GCON2025[@GCON]( https://gcon.kosen-k.go.jp/)
+- [@高専GCON2025]( https://gcon.kosen-k.go.jp/)
 GCONカンファレンス参加
 一次審査通過（22/89チーム）
-- 🗣️ World Scolars Cup[@WSC](https://www.scholarscup.org/)
+- 🗣️ [@World Scolars Cup](https://www.scholarscup.org/)
 で2年連続世界大会出場権獲得＆4個のメダルを獲得 
-- 🏫 AI未来探究プロジェクト [@AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609) 
+- 🏫 [@AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609) 
 校長賞受賞
 - 🧪 KEKの高校生向けキャンプに2度参加[@KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc)[@TYL School Science Girls Camp 2025](https://www.kek.jp/ja/topics/202505021200rikejo)
 - 🤖 短期インターンシップに参加
