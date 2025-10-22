@@ -35,7 +35,7 @@ GCONカンファレンス参加
 で2年連続世界大会出場権獲得＆4個のメダルを獲得 
 - 🏫 [@AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609) 
 校長賞受賞
-- 🧪 KEKの高校生向けキャンプに2度参加[@KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc)[@TYL School Science Girls Camp 2025](https://www.kek.jp/ja/topics/202505021200rikejo)
+- 🧪 [@KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc)[@TYL School Science Girls Camp 2025](https://www.kek.jp/ja/topics/202505021200rikejo)に参加
 - 🤖 短期インターンシップに参加
 
 ---
