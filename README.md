@@ -24,11 +24,11 @@
 
 ### 🏅 受賞歴、活動実績
 
--2025年 日本表面真空学会学術講演会[@JVSS 2025]( https://pub.confit.atlas.jp/en/event/jvss2025)
+- 2025年 日本表面真空学会学術講演会[@JVSS 2025]( https://pub.confit.atlas.jp/en/event/jvss2025)
 ポスター発表に参加
 - Technovation Girls2025[@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
 チャレンジステージ1位＆ファイナリスト (11/88チーム)
--高専GCON2025[@GCON]( https://gcon.kosen-k.go.jp/)
+- 高専GCON2025[@GCON]( https://gcon.kosen-k.go.jp/)
 一次審査通過
 - 🗣️ World Scolars Cup[@WSC](https://www.scholarscup.org/)
 で2年連続世界大会出場権獲得＆4個のメダルを獲得 
