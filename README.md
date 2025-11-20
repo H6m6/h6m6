@@ -27,9 +27,9 @@
 - [@2025年 日本表面真空学会学術講演会]( https://pub.confit.atlas.jp/en/event/jvss2025)
 ポスター発表参加
 - [@Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)
-チャレンジステージ1位＆ファイナリスト (11/88チーム)
+チャレンジステージ1位＆ファイナリスト 
 - [@高専GCON2025]( https://gcon.kosen-k.go.jp/)
-GCONカンファレンス参加＆一次審査通過（22/89チーム）
+GCONカンファレンス参加＆本選ファイナリスト
 - 🗣️ [@World Scolars Cup](https://www.scholarscup.org/)
 で2年連続世界大会出場権獲得＆4個のメダルを獲得 
 - 🏫 [@AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609) 
