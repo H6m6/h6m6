@@ -4,13 +4,13 @@
 ### 🔬 参加しているプロジェクト
 
 - ☢️ DIY放射線検出器 × アプリケーション
-　└ 検出データをリアルタイムで可視化・共有するシステムを開発しています。
+　└ 検出データをリアルタイムで可視化・共有するシステムを開発しています．
 
 - 🍠 ほしいもの乾燥条件の最適化
-　└ ほしいもの美味しさを科学的に解明し、データに基づくおいしいほしいも作りをしています。
+　└ ほしいもの美味しさを科学的に解明し，データに基づくおいしいほしいも作りをしています．
 
 - 🌌 Cosmic Watchで宇宙線を探る
-　└ 宇宙線検出器であるCosmic Watchを用いて、ミューオンと地磁気、磁束密度、磁気座標の関係性を実験的に研究しています。
+　└ 宇宙線検出器であるCosmic Watchを用いて，ミューオンと緯度の関係性を実験的に研究しています．
 
 ---
 
@@ -30,7 +30,6 @@
 - 25/4/2-3：[TYL School Science Girls Camp 2025](https://www.kek.jp/ja/topics/202505021200rikejo)に参加
 - 25/5/5-6：[World Scolars Cup](https://www.scholarscup.org/)2年連続世界大会出場権獲得，2個のメダルを獲得（Team Bowl-Silver, Writing Champions-Gold）
 - 25/6/21：[Technovation Girls Japan 2025](https://www.technovation.waffle-waffle.org/)チャレンジステージ1位＆ファイナリスト
-- 25/9/7-8：[GCONカンファレンス2025](https://gcon.kosen-k.go.jp/topics/detail/t9xpLkjt)参加
 - 25/10/20：[2025年 日本表面真空学会学術講演会]( https://pub.confit.atlas.jp/en/event/jvss2025)ポスター発表参加
 - 25/11/27：[第13回全国ビジネスコンテスト](https://www.jfc.go.jp/n/grandprix/final_presentation/13th.html)ベスト100賞
 - 25/12/5：[第19回茨城地区分析技術交流会](https://kanto.jsac.jp/19th_ibaraki/)ポスター発表参加
