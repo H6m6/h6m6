@@ -24,7 +24,7 @@
 
 ### 🏅 受賞歴、活動実績
 
-- 24/4/28-29[World Scolars Cup](https://www.scholarscup.org/)世界大会出場権獲得，メダル２個獲得（Writing Champion-Silver, School Top Scholars-Gold）
+- 24/4/28-29[World Scolars Cup](https://www.scholarscup.org/)世界大会出場権獲得，メダル2個獲得（Writing Champion-Silver, School Top Scholars-Gold）
 - 24/12/24-27[KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc) 
 - 25/3/8[電気学会　U-21 学生研究発表会](https://www.iee.jp/u-21-2025/)口頭ライブ発表参加
 - 25/3/28[AI未来探究プロジェクト](https://www.ibaraki-ct.ac.jp/info/archives/75609)校長賞受賞
