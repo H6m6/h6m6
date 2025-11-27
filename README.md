@@ -22,7 +22,7 @@
 - 📊 Python / データサイエンス
 ---
 
-### 🏅 受賞歴、活動実績
+### 🏅 受賞歴・活動実績
 
 - 24/4/28-29[World Scolars Cup](https://www.scholarscup.org/)世界大会出場権獲得，メダル2個獲得（Writing Champion-Silver, School Top Scholars-Gold）
 - 24/12/24-27[KEK Winter Science Camp 2024](https://www.kek.jp/ja/topics/202501311600wsc) 
@@ -36,7 +36,6 @@
 - 25/11/27[第13回全国ビジネスコンテスト](https://www.jfc.go.jp/n/grandprix/final_presentation/13th.html)ベスト100賞
 - 25/12/5[第19回茨城地区分析技術交流会](https://kanto.jsac.jp/19th_ibaraki/)ポスター発表参加
 - 25/12/14[高専GCON2025]( https://gcon.kosen-k.go.jp/)本選ファイナリスト
-- 
 
 ---
 
@@ -46,7 +45,6 @@
 - 🌟 開発した放射線モニタリングシステムについて、フィードバックを得る
 - 📡 ミューオンと地磁気の関係を科学的に分析・解明する
 - 🍠 美味しい干し芋を食べる
-
 
 ---
 
